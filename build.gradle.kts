@@ -32,7 +32,8 @@ tasks {
 
     patchPluginXml {
         sinceBuild.set("201")
-        untilBuild.set("242.*")
+        //fixme test and remove this
+        untilBuild.set("500.*") //I know this is fucked up. but this is to support future versions
     }
 
     signPlugin {
