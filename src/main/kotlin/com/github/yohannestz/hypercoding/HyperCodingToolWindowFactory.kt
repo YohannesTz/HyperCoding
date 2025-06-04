@@ -112,7 +112,7 @@ class HyperCodingToolWindowFactory : ToolWindowFactory {
             maximumSize = Dimension(100, 30)
             alignmentX = Component.CENTER_ALIGNMENT
             addActionListener {
-                Desktop.getDesktop().browse(URI("https://github.com/yohannesTz"))
+                Desktop.getDesktop().browse(URI("https://github.com/YohannesTz/HyperCoding"))
             }
         }
 
