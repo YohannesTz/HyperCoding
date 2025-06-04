@@ -73,3 +73,7 @@ Try the following:
 
 ```bash
 ./gradlew buildPlugin
+```
+
+### ⬇️ Releases
+Latest releases can be found [here](https://github.com/YohannesTz/HyperCoding/releases)
