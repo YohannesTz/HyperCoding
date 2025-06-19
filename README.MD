@@ -45,9 +45,6 @@ Try the following:
 - 🎮 **Video Presets** – Choose from Family Guy, Subway Surfers, or Temple Run.
 - 🎯 **Fullscreen Mode** – Automatically clicks the YouTube fullscreen button.
 - ⏬ **Auto Scroll** – Scrolls the video down at custom intervals (simulating infinite scroll).
-- 🔗 **GitHub Button** – Opens the plugin author’s GitHub page.
-
----
 
 ## ⚙️ Usage
 
